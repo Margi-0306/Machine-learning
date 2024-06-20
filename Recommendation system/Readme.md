@@ -1,7 +1,7 @@
 # Recommendation system
 A recommendation system is one of the applications of machine learning. In this project, I used the cosine similarity measure to find the similarity between users. I utilized a movie dataset and set up the environment in Jupyter Notebook, employing pandas and numpy libraries. Additionally, I used the pivot function to create the user-item matrix.
 
-##What is user Item Matrix? 
+## What is user Item Matrix? 
 
 A user-item matrix (also known as a user-item interaction matrix or user-item rating matrix) is a fundamental concept in recommendation systems. It is a matrix that represents the interactions between users and items (e.g., products, movies, books). Each row corresponds to a user, each column corresponds to an item, and each cell in the matrix represents the interaction (such as a rating, view, purchase, or any other interaction metric) between a specific user and a specific item.
 
